@@ -1,0 +1,19 @@
+.bd img {
+    float: right;
+    width: 350px;
+    margin-right: 10px;
+}
+
+.bd .desc {
+    width : 380px;
+    float: right;
+    padding: 0 10px;
+    line-height: 30px;
+}
+
+.bd .teaching {
+    width : 380px;
+    float: right;
+    padding: 0 10px;
+    line-height: 30px;
+}
