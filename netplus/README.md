@@ -1,1 +1,2 @@
-This is just the content of the web site at http://net.icenter.tsinghua.edu.cn/netplus.
+This is the backup content of the web site:
+http://net.icenter.tsinghua.edu.cn/netplus.
